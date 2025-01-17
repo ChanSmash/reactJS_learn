@@ -1,0 +1,30 @@
+Question in the Episode_1:
+===========================
+
+1. What is CDN?
+2. What is cross origin?
+3. what is ordering of tag in html file?
+4. what is the most expensive operation or process in webpage or website?
+5. what is the difference between framework and library?
+6. Why we are using "crossOrigin" keyword in script tag?
+7. what will root.render will do?
+8. what is actually the React.CreateElement at end of the day(finally)?
+9. How to add nested element and tag in html using JS or react methods?
+10. what is the use of the below code:
+<!--
+<head></head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React Init</title>
+    <link rel="stylesheet"  href="./index.css"/>
+</head>
+!-->
+
+
+Answers:
+4. manipulating the DOM (Document object model) which is based on the user 
+interaction we need to modify or manipulate the DOM tree at specific part instead of rendering the whole page
+
+10. in the meta tag used to define essentail info about our code to different type of browser that what actually contains in the page
+    1. UTF - 8 ====> which helps to accept all languages, alphabets, character
+    2. viewport ===> which helps to make responsive our webpage
