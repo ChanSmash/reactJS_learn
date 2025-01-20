@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client"
+
 //normal JS method to create an element and publising into an DOM
 
 /*

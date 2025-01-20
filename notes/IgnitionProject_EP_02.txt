@@ -1,0 +1,18 @@
+In this igniting session :
+
+1. Git has been initalizing and linked into git hub
+2. Learned about npm init vs npm init -y
+3. Learned more about PARCEL bundler
+4. Learned about the two types of dependencied in package.json
+5. Learned about the difference between Package.json and package-lock.json
+6. difference between caret and tildel in package.json package version ===> ~1.0.3 vs ˆ1.0.3
+7. What is node_modules
+8. Learned about transitive dependencies
+9. learned about Npx and Npm and each difference
+10. Learned about in what ways we can install and import REACT into our project and which is preferred way.
+11. Why do we not use import and export in normal JS and if i use how can i tell and let the index.html to understand using type="module" keyword./
+12. Learned about the command which we are using
+    npx parcel index.html, npx parcel build index.html
+13. what is the use of dist and .parcel-cache file
+14. how we can make our site or webpage run on all browser version(either old or new) and how we make browser compatabile version
+15. what is babel?

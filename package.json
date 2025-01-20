@@ -1,0 +1,27 @@
+{
+  "name": "reactjs_learnings",
+  "version": "1.0.0",
+  "description": "This package conatins learning of react library",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanSmash/reactJS_learn.git"
+  },
+  "author": "chandruvetrivel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanSmash/reactJS_learn/issues"
+  },
+  "homepage": "https://github.com/ChanSmash/reactJS_learn#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10",
+    "vite": "^6.0.7"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
